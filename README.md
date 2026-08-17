@@ -1,2 +1,2 @@
-# PAiNTiNGS-portraits
+# PAiNTiNG-portrait
 Potrait Painting Gallery
