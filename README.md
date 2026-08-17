@@ -1,2 +1,2 @@
 # PAiNTiNG-portrait
-Potrait Painting Gallery
+Milksop Studio Potrait Painting Gallery
